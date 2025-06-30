@@ -1,5 +1,9 @@
 # PyNapp
-L'app per utilizzare al meglio PyNarrative 
+L'app per utilizzare al meglio PyNarrative.
+
+
+
+
 
 Copyright 2025 Roberto Olinto Barsotti
         
