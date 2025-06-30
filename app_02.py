@@ -206,7 +206,7 @@ def detect_outliers(df):
     return outliers
 
 # === GUIDA UNIFICATA COMPLETA ===
-with st.expander("📖 GUIDA COMPLETA ALL'ANALISI DATI - Prof. Malizia", expanded=True):
+with st.expander("📖 GUIDA COMPLETA ALL'ANALISI DATI - Prof. Malizia", expanded=False):
     st.markdown("""
     # 🎯 **LA GUIDA DEFINITIVA ALL'ANALISI STATISTICA**
     
