@@ -1,0 +1,5 @@
+streamlit
+st-paywall
+pdfplumber==0.10.2
+plotly==5.18.0
+scipy>=1.13.0
